@@ -1,0 +1,52 @@
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="42">
+            <File firstVisibleLine="90" xOffset="0" scrollWidth="744" startPos="2654" endPos="2654" selMode="0" lang="C++" encoding="-1" filename="C:\Documents and Settings\ChrisP\Marlin\Marlin\wiring.h" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="C++" encoding="-1" filename="C:\Documents and Settings\ChrisP\Marlin\Marlin\cardreader.cpp" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="C++" encoding="-1" filename="C:\Documents and Settings\ChrisP\Marlin\Marlin\cardreader.h" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="C++" encoding="-1" filename="C:\Documents and Settings\ChrisP\Marlin\Marlin\Configuration.h" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="C++" encoding="-1" filename="C:\Documents and Settings\ChrisP\Marlin\Marlin\Configuration_adv.h" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="Normal Text" encoding="-1" filename="C:\Documents and Settings\ChrisP\Marlin\Marlin\COPYING" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="Python" encoding="-1" filename="C:\Documents and Settings\ChrisP\Marlin\Marlin\create_speed_lookuptable.py" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="Python" encoding="-1" filename="C:\Documents and Settings\ChrisP\Marlin\Marlin\createTemperatureLookup.py" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="C++" encoding="-1" filename="C:\Documents and Settings\ChrisP\Marlin\Marlin\EEPROMwrite.h" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="C++" encoding="-1" filename="C:\Documents and Settings\ChrisP\Marlin\Marlin\fastio.h" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="C++" encoding="-1" filename="C:\Documents and Settings\ChrisP\Marlin\Marlin\language.h" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="Makefile" encoding="-1" filename="C:\Documents and Settings\ChrisP\Marlin\Marlin\Makefile" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="C++" encoding="-1" filename="C:\Documents and Settings\ChrisP\Marlin\Marlin\Marlin.h" />
+            <File firstVisibleLine="995" xOffset="0" scrollWidth="400" startPos="32365" endPos="32372" selMode="0" lang="Normal Text" encoding="-1" filename="C:\Documents and Settings\ChrisP\Marlin\Marlin\Marlin.ino" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="C++" encoding="-1" filename="C:\Documents and Settings\ChrisP\Marlin\Marlin\MarlinSerial.cpp" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="C++" encoding="-1" filename="C:\Documents and Settings\ChrisP\Marlin\Marlin\MarlinSerial.h" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="C++" encoding="-1" filename="C:\Documents and Settings\ChrisP\Marlin\Marlin\motion_control.cpp" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="C++" encoding="-1" filename="C:\Documents and Settings\ChrisP\Marlin\Marlin\motion_control.h" />
+            <File firstVisibleLine="1137" xOffset="0" scrollWidth="1824" startPos="31066" endPos="31073" selMode="0" lang="C++" encoding="-1" filename="C:\Documents and Settings\ChrisP\Marlin\Marlin\pins.h" />
+            <File firstVisibleLine="440" xOffset="0" scrollWidth="656" startPos="18641" endPos="18648" selMode="0" lang="C++" encoding="-1" filename="C:\Documents and Settings\ChrisP\Marlin\Marlin\planner.cpp" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="C++" encoding="-1" filename="C:\Documents and Settings\ChrisP\Marlin\Marlin\planner.h" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="C++" encoding="-1" filename="C:\Documents and Settings\ChrisP\Marlin\Marlin\Sd2Card.cpp" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="C++" encoding="-1" filename="C:\Documents and Settings\ChrisP\Marlin\Marlin\Sd2Card.h" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="C++" encoding="-1" filename="C:\Documents and Settings\ChrisP\Marlin\Marlin\Sd2PinMap.h" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="C++" encoding="-1" filename="C:\Documents and Settings\ChrisP\Marlin\Marlin\SdBaseFile.cpp" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="C++" encoding="-1" filename="C:\Documents and Settings\ChrisP\Marlin\Marlin\SdBaseFile.h" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="C++" encoding="-1" filename="C:\Documents and Settings\ChrisP\Marlin\Marlin\SdFatConfig.h" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="C++" encoding="-1" filename="C:\Documents and Settings\ChrisP\Marlin\Marlin\SdFatStructs.h" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="C++" encoding="-1" filename="C:\Documents and Settings\ChrisP\Marlin\Marlin\SdFatUtil.cpp" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="C++" encoding="-1" filename="C:\Documents and Settings\ChrisP\Marlin\Marlin\SdFatUtil.h" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="C++" encoding="-1" filename="C:\Documents and Settings\ChrisP\Marlin\Marlin\SdFile.cpp" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="C++" encoding="-1" filename="C:\Documents and Settings\ChrisP\Marlin\Marlin\SdFile.h" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="C++" encoding="-1" filename="C:\Documents and Settings\ChrisP\Marlin\Marlin\SdInfo.h" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="C++" encoding="-1" filename="C:\Documents and Settings\ChrisP\Marlin\Marlin\SdVolume.cpp" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="C++" encoding="-1" filename="C:\Documents and Settings\ChrisP\Marlin\Marlin\SdVolume.h" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="C++" encoding="-1" filename="C:\Documents and Settings\ChrisP\Marlin\Marlin\speed_lookuptable.h" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="C++" encoding="-1" filename="C:\Documents and Settings\ChrisP\Marlin\Marlin\stepper.cpp" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="C++" encoding="-1" filename="C:\Documents and Settings\ChrisP\Marlin\Marlin\stepper.h" />
+            <File firstVisibleLine="623" xOffset="0" scrollWidth="624" startPos="17379" endPos="17386" selMode="0" lang="C++" encoding="-1" filename="C:\Documents and Settings\ChrisP\Marlin\Marlin\temperature.cpp" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="C++" encoding="-1" filename="C:\Documents and Settings\ChrisP\Marlin\Marlin\temperature.h" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="C++" encoding="-1" filename="C:\Documents and Settings\ChrisP\Marlin\Marlin\thermistortables.h" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="C++" encoding="-1" filename="C:\Documents and Settings\ChrisP\Marlin\Marlin\ultralcd.h" />
+            <File firstVisibleLine="521" xOffset="0" scrollWidth="1160" startPos="13153" endPos="13160" selMode="0" lang="Normal Text" encoding="-1" filename="C:\Documents and Settings\ChrisP\Marlin\Marlin\ultralcd.ino" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="C++" encoding="-1" filename="C:\Documents and Settings\ChrisP\Marlin\Marlin\watchdog.h" />
+            <File firstVisibleLine="18" xOffset="0" scrollWidth="632" startPos="0" endPos="0" selMode="0" lang="Normal Text" encoding="-1" filename="C:\Documents and Settings\ChrisP\Marlin\Marlin\watchdog.ino" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>
